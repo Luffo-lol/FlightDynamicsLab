@@ -1,0 +1,16 @@
+Derivative Type,Wingspan Exponent,Derivative Value
+Y_v,0,-0.5772
+L_v,1,-0.0723
+N_v,1,0.0773
+Y_p,1,0.017
+L_p,2,-0.2228
+N_p,2,-0.0121
+Y_r,1,0.1312
+L_r,2,0.0782
+N_r,2,-0.0645
+Y_dA,0,0
+L_dA,1,-0.0763
+N_dA,1,0
+Y_dR,0,0.309
+L_dR,1,0.025
+N_dR,1,-0.117

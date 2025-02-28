@@ -22,7 +22,7 @@ hw_ratio = 0.65; % feel free to play with this ratio
 
 
 %%%%%INSERT THE FILENAME HERE%%%%%
-fname = "E:\Y2\Flight Dynamics\Lab Data\Group 07\FlightDynLabPt1_2025-02-17_10-45-14.mat"; % Update to match the provided file
+fname = "Himmat Code First Lab\FlightDynLabPt1_2025-02-17_10-45-14.mat"; % Update to match the provided file
 load(fname) % Load the .mat file
 
 % Check if the loaded data structure exists and extract appropriately
